@@ -5,5 +5,4 @@ export default {
   title: "Toggled Editor",
   component: Toggled,
 };
-
 export const Inline = {};

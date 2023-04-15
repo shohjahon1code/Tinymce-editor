@@ -51,7 +51,7 @@ function App() {
             "body { font-family:Helvetica,Arial,sans-serif; font-size:14px }",
         }}
       />
-      <button onClick={log}>Look at the console</button>
+      <button onClick={log}>Look at the console after click</button>
     </>
   );
 }
