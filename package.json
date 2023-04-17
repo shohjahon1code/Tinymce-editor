@@ -8,7 +8,8 @@
     "build": "vite build",
     "preview": "vite preview",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build",
+    "chromatic": "npx chromatic --project-token=253f5ace5026"
   },
   "dependencies": {
     "@storybook/addon-docs": "^7.0.4",
@@ -31,5 +32,7 @@
     "prop-types": "^15.8.1",
     "storybook": "^7.0.4",
     "vite": "^4.2.0"
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "tinymce@0.0.0"
 }
